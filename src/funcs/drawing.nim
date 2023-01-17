@@ -10,7 +10,7 @@ import
 
 # the main function for drawing fetch
 proc drawInfo*(asciiArt: bool) =
-  let  # distro id (arch, manjaro, debian)
+  let  # distro id (arch, manjaro, debian, skar)
     distroId = getDistroId()
 
   let  # logo and it color
