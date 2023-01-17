@@ -2,10 +2,10 @@
 
 <img src="https://cdn.discordapp.com/attachments/955362477137362954/996769449480826971/2022-07-13_16-25.png" width="350px">
 
-# `NiTch`
+# `NiTch-Do`
 
 <h3>
-  incredibly fast system fetch written in <code>nim👑</code>
+  incredibly fast system fetch written in <code>nim👑</code> but with doas support
 </h3>
 <br>
 
