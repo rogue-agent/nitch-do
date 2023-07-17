@@ -150,7 +150,7 @@ proc drawInfo*() =
 
 ### 1) clone repo
 ```fish
-git clone https://github.com/unxsh/nitch.git
+git clone https://github.com/rogue-agent/nitch-do.git
 ```
 ### 2) change dir to `nitch`
 ```fish
